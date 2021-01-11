@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>train</folder>
+<filename>GClear (277).png</filename>
+<path>C:\Users\SWBee29932\Desktop\driving-object-detection-master\images\train\GClear (277).png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>green</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1141</xmin>
+        <ymin>11</ymin>
+        <xmax>1273</xmax>
+        <ymax>254</ymax>
+    </bndbox>
+</object>
+</annotation>
